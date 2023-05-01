@@ -13,6 +13,8 @@ onde 'Base da Rota' seria a o inicio da rota após o nome de dominio com `client
 
 ### Rodar localmente
 
-1 - Clone o repositorio
+1 - Clone o repositorio (`git cliene https://github.com/andersondavid/express-router-exemple.git`)
+
 2 - Instale os pacotes de dependencia (`pnpm i`)
+
 3 - Inicie o servidor de desenvolvimento (`pnpm dev`)# express-router-exemple
